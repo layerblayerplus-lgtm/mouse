@@ -1,2 +1,2 @@
 # mouse
-this a the mouse starter project I made
+this is the mouse starter project I decided to make. 
